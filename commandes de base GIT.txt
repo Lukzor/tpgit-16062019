@@ -1,0 +1,4 @@
+git init: crée un répertoire versionné
+git add: ajoute un fichier
+git commit: valide l'instantané 
+git status: état à l'instant
